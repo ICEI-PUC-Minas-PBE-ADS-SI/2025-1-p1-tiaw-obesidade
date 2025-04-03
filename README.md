@@ -1,25 +1,26 @@
-# Nome do projeto
+# Nome do Projeto: Obesidade (On Focus)
 
-`CURSO: Coloque o nome do curso aqui, sem abreviações`
+`CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web`
 
-`Xº semestre/ANO`
+`1º semestre/ANO`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O objetivo deste projeto é analisar a obesidade como um problema de saúde pública, destacando suas principais causas, impactos e desafios. A obesidade está diretamente ligada a fatores como má alimentação, sedentarismo e hábitos de vida pouco saudáveis, resultando em doenças crônicas como diabetes, hipertensão e problemas cardiovasculares. Além disso, questões psicológicas e sociais, como baixa autoestima e discriminação, também agravam a situação, tornando essencial uma abordagem multidisciplinar para combater esse problema.
+
+Para solucionar esses desafios, o projeto propõe estratégias baseadas na conscientização, educação alimentar e incentivo à prática de atividades físicas. Além disso, serão abordadas políticas públicas eficazes, como a melhoria do acesso a alimentos saudáveis e programas de prevenção e tratamento. O objetivo é promover mudanças sustentáveis no estilo de vida da população, reduzindo os índices de obesidade e melhorando a qualidade de vida das pessoas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Cauã Moreira Martins
+* Gabriel Lott Vilela
+* Marcus Magnus de Almeida Mayer
+* Matheus Henrique Dias Moreira
+* Matheus Henrique Moreira
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Jardell Fillipe da Silva
 
 ## Instruções de utilização
 
