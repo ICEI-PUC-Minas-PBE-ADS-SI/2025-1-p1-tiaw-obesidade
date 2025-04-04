@@ -14,8 +14,14 @@
 >
 > * **Matriz CSD**:  também conhecida como Matriz de Alinhamento, trata-se de uma ferramenta utilizada no Design Thinking para organizar informações, facilitando a tomada de decisões e a solução de problemas;
 > * **Mapa de stakeholders**: ferramenta que permite identificar e entender o grupo de pessoas e entidades que devem ser analisados e consultados para obter uma visão mais ampla do problema;
+> * ![Meu primeiro board](https://github.com/user-attachments/assets/eb040852-5367-4d5c-8873-f9510a9b3671)
+
 > * **Entrevistas qualitativas**: uma série de entrevistas qualitativas a fim de validar suposições e esclarecer dúvidas junto aos principais envolvidos;
+> * ![Meu primeiro board (1)](https://github.com/user-attachments/assets/c47cc55e-f060-41df-b37a-58d927e0f9b7)
+
 > * **Highlights de pesquisa**: um compilado das informações levantadas durante as entrevistas realizadas.
+> * ![Meu primeiro board (2)](https://github.com/user-attachments/assets/dfa38f75-7916-4a00-8aca-8912683a5a92)
+
 
 > **Links úteis**:
 > - [Mapa de stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
