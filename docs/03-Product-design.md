@@ -14,8 +14,12 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas  ⚠️ EXEMPLO ⚠️         | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
+|Maurício  | Melhorar minha mobilidade         | Voltar a praticar futebol, talvez conseguir jogar num time amador                 |
+|Fernanda       | Conseguir cuidar da minha saúde         | Para não ficar tão cansada após um dia de trabalho, como era antes de envelhecer.   |
+|Gabriel  | Cuidar da minha alimentação           | Conseguir emagrecer e parar de sofrer bullying, por causa do meu peso                 |
+|Ana  | Conseguir mudar minha aparência          | Não me sentir inferior em relação aos outros por causa da minha aparência, tenho a autoestima baixa                 |
+|Edilene  | Emagrecer por causa da minha família           | Minha família parar de encher meu saco em relação ao meu peso e minha saúde, não vejo problema com o jeito que estou.                 |
+|Milton  | Mudar meu estilo de vida           | Por causa da minha negligência em relação a saúde estou com risco de vida e preciso mudar, pois ainda quero viver muito tempo com minha família                 |
 
 > ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
@@ -34,6 +38,10 @@ Apresente aqui as histórias de usuários que são relevantes para o projeto da 
 **✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
 
 ##### Proposta para a persona XPTO ⚠️ EXEMPLO ⚠️
+
+![Grupo (3)](https://github.com/user-attachments/assets/492fde73-e265-4b19-84c2-99bcfe146aeb)
+![Grupo (4)](https://github.com/user-attachments/assets/d8f2ee4e-7bb8-4f54-9eda-b0f1cbde35eb)
+![Grupo (5)](https://github.com/user-attachments/assets/b0f7b0c7-016f-49c7-9229-813739748785)
 
 ![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
 
