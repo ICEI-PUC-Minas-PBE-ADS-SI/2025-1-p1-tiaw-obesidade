@@ -11,7 +11,7 @@ As principais causas da obesidade incluem alimentação inadequada, sedentarismo
 <!-- **Links úteis**:
 > - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz certezas, suposições e dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)-->
+> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/) -->
 
 ## Objetivos
 
@@ -25,7 +25,7 @@ O objetivo geral do projeto é desenvolver um software para auxiliar no combate 
 O que motiva a realização do trabalho com esse tema, a obesidade, é solucionar um problema que atinge todas as camadas sociais. Além disso, gerar uma comunidade engajada, a qual interaja em prol de um objetivo único, que é gerar hábitos saudáveis.
 
 <!-- **Links úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)-->
+> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/) -->
 
 ## Público-alvo
 
@@ -35,4 +35,4 @@ O público-alvo para o projeto são as pessoas que sofrem com a obesidade, além
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público-alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)-->
+> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/) -->
