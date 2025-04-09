@@ -47,11 +47,11 @@ São protótipos usados no design de interface para sugerir a estrutura de um si
 ##### TELA XPTO ⚠️ EXEMPLO ⚠️
 
 Descrição para a tela XPTO
-Versão 1: Começamos com um Wireframe bem simples de home page, para ir incrementando funcionalidades e mudando o estilo.
-Versão 2: Adicionamos mais funcionalidades, mas desistimos dessa versão e voltamos para versão inicial para reestruturar tudo.
-Versão final: Adicionamos todas as funcionalidades que desejavamos, além disso fizemos o estilo que queremos seguir criando as outras abas do site.
+>Versão 1: Começamos com um Wireframe bem simples de home page, para ir incrementando funcionalidades e mudando o estilo.
+>Versão 2: Adicionamos mais funcionalidades, mas desistimos dessa versão e voltamos para versão inicial para reestruturar tudo.
+>Versão final: Adicionamos todas as funcionalidades que desejavamos, além disso fizemos o estilo que queremos seguir criando as outras abas do site.
 
-Versão mobile: Colocamos as mesmas funcionalidades da versão de desktop, porém de maneira mais simples, para estar de acordo com os estilos que os aplicativos mobile tem.
+>Versão mobile: Colocamos as mesmas funcionalidades da versão de desktop, porém de maneira mais simples, para estar de acordo com os estilos que os aplicativos mobile tem.
 
 
  
