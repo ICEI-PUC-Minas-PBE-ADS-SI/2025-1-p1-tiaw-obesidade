@@ -3,9 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="02-Product-discovery.md"> Product discovery</a></span>
 
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
-Neste momento, transformam-se os insights e validações obtidos em soluções tangíveis e utilizáveis. Esta fase envolve a definição de uma proposta de valor, detalhando a prioridade de cada ideia, e a consequente criação de wireframes, mockups e protótipos de alta fidelidade, que especificam a interface e a experiência do usuário.
 
 
 ## Histórias de usuários
@@ -21,16 +19,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Edilene  | Emagrecer por causa da minha família           | Minha família parar de encher meu saco em relação ao meu peso e minha saúde, não vejo problema com o jeito que estou.                 |
 |Milton  | Mudar meu estilo de vida           | Por causa da minha negligência em relação a saúde estou com risco de vida e preciso mudar, pois ainda quero viver muito tempo com minha família                 |
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
-
-Apresente aqui as histórias de usuários que são relevantes para o projeto da sua solução. As histórias de usuários consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuários por contexto, para facilitar consultas recorrentes a esta parte do documento.
-
-> **Links úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (user stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 common user story mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 
 ## Proposta de valor
@@ -43,11 +31,9 @@ Apresente aqui as histórias de usuários que são relevantes para o projeto da 
 ![Grupo (4)](https://github.com/user-attachments/assets/d8f2ee4e-7bb8-4f54-9eda-b0f1cbde35eb)
 ![Grupo (5)](https://github.com/user-attachments/assets/b0f7b0c7-016f-49c7-9229-813739748785)
 
-![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O mapa da proposta de valor é uma ferramenta que auxilia na definição do tipo de produto ou serviço que melhor atende às personas previamente estabelecidas.
+
+
 
 
 > **Links úteis**:
@@ -61,35 +47,30 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 | Permitir que o usuário monte o perfil a partir das suas características.| ALTA       |
+| RF-002 | Sessão de receitas.| ALTA     |
+| RF-003 | Sessão de treinos  | ALTA     |
+| RF-004 | Permitir que a pessoa registre sua evolução com os treinos.| MÉDIA     |
+| RF-005 | Conter aba de sugestões para que o usuário fale pontos para o aplicativo melhorar. | MÉDIA     |
+| RF-006 | Registrar os treinos que tenham sido completados para o usuário ter controle da sua rotina.| MÉDIA     |
+| RF-007 | Permitir o usuário navegar pelos treinos divididos por categorias, pernas, etc.  | ALTA     |
+| RF-008 | Fornecer contato com profissionais da área da saúde. | BAIXA     |
+| RF-009 | Ter recompensas por ter concluído seu treino. | MÉDIA     |
+| RF-010 | Competição em relação a comunidade que usa o aplicativo. | ALTA     |
+
 
 ### Requisitos não funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
-| ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em dispositivos móveis ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar as requisições do usuário em no máximo 3 segundos ⚠️ EXEMPLO ⚠️          | BAIXA      |
+| ------- | -------------------------------------------------------------------------------------    | ---------- |
+| RNF-001 | Estar disponível a qualquer horário do dia, todos os dias da semana                      | MÉDIA     |
+| RNF-002 | Ser possível acessar em qualquer tipo de aparelho, celulares ou computadores.          | ALTA      |
+| RNF-003 | Registro dos dados do usuário para possíveis login's em outros dispositivos.         | BAIXA      |
+| RNF-004 | Ter vídeos com a qualidade, maior ou igual, a 720p.          | MÉDIA      |
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Com base nas histórias de usuários, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos não funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
 
-Lembre-se de que cada requisito deve corresponder a uma e somente uma característica-alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas histórias de usuários foram cobertos.
-
-> **Links úteis**:
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [Entenda o que são requisitos de software, a diferença entre requisito funcional e não funcional, e como identificar e documentar cada um deles](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+OBS:PARA DEFINIÇÃO DE PRIORIDADES PENSAMOS COM BASE NOS DADOS QUE OBTIDOS NAS ENTREVISTAS E CONCLUSÕES FEITAS NA DEFINIÇÃO DAS PERSONAS; COM BASE NISSO FILTRAMOS E PRIORIZAMOS OS REQUISITOS. DEFINIMOS O MUSTHAVE DO SITE, SHOULD HAVE, COULD HAVE PELA TECNICA MoSCoW. PENSAMOS TAMBEM NA DIFICULDADE DE EXECUÇÃO DE CADA FUNCIONALIDADE E TEMPO DISPONIVEL PARA DESENVOLVE-LA.
 
 
 ## Restrições
@@ -100,5 +81,5 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|001| O projeto deverá ser entregue até o final do semestre ⚠️ EXEMPLO ⚠️ |
-|002| Não é permitido o desenvolvimento de um módulo de back-end  ⚠️ EXEMPLO ⚠️  |
+|001|- Deve ser desenvolvido até o fim do período letivo.|
+|002| - Deve seguir normas de segurança de dados do usuário.|
