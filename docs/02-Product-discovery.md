@@ -36,7 +36,7 @@
 > ![Grupo (1)](https://github.com/user-attachments/assets/0a911bd3-6b94-4ad7-bb09-1295ab8546e9)
 > ![Grupo (2)](https://github.com/user-attachments/assets/49256059-59ce-46af-9457-b8958ff57a16)
 
-![Exemplo de persona](images/exemplo-persona.png)
+
 
 
 > **Links úteis**:
