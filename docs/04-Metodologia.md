@@ -5,6 +5,19 @@
 
 Descreva aqui a metodologia de trabalho do grupo para abordar o problema. Inclua definições sobre os ambientes de trabalho utilizados pela equipe para desenvolver o projeto. Isso abrange a relação dos ambientes utilizados, a estrutura para a gestão do código-fonte, além da definição do processo e das ferramentas por meio dos quais a equipe se organiza (gestão de equipes).
 
+Atraves da metodolia scrum a equipe ira dividir as entregas que seram feitas ao final de cada sprint, onde cada desenvolvedor tera como sua responsabilidade o desenvolvimento dos componentes da aplicação; inicialmente ficou definido encontros diarios presencialmente ou não, para alinhamento das demandas e analise da qualidade do que esta sendo desenvolvido. para facilitar a organização a equipe ira seguir uma lista de requisitos do site se baseando na prioridade do que vai ser desenvolvido; 
+
+| BackLOG                            | A FAZER                             |
+|-------------------------------------|------------------------------------|
+| Criar Layout home-page              | criar home page atraves do html/css.|
+| criação da pagina de treinos        |criação atraves do hmtl/css         |
+| criar ranking de usuario            | parte visual/estetica do ranking de usuario para posterior aplicação de Jc|
+| criar categorias de treinos no site |criar categorias acessaveis pela homepage|
+
+(sujeito a mudanças)
+(posteriormente implementar um sistema de login pro Usuario)
+
+
 ## Relação de ambientes de trabalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A relação dos ambientes com seus respectivos propósitos deverá ser apresentada em uma tabela que especifique e detalhe Ambiente, Plataforma e Link de Acesso. Defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
@@ -48,7 +61,6 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 ### Processo
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
 Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, o GitHub Projects, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. 
 
