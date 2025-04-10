@@ -10,8 +10,7 @@
  ## User flow
 
 
-![Uploading image.png…]()
-
+https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p1-tiaw-obesidade/blob/main/docs/images/fluxo.png?raw=true
 
 > **Links úteis**:
 > - [User flow: o quê é e como fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
