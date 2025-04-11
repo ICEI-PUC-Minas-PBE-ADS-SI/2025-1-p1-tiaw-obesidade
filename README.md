@@ -17,6 +17,7 @@ Para solucionar esses desafios, o projeto propõe estratégias baseadas na consc
 * Marcus Magnus de Almeida Mayer
 * Matheus Henrique Dias Moreira
 * Matheus Henrique Moreira
+* Pedro Henrique Alves Emerick
 
 ## Professor
 
