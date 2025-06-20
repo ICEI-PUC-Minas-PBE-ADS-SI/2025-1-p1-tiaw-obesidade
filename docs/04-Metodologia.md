@@ -3,16 +3,22 @@
 
 <span style="color:red">Pré-requisitos: <a href="03-Product-design.md"> Product design</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para abordar o problema. Inclua definições sobre os ambientes de trabalho utilizados pela equipe para desenvolver o projeto. Isso abrange a relação dos ambientes utilizados, a estrutura para a gestão do código-fonte, além da definição do processo e das ferramentas por meio dos quais a equipe se organiza (gestão de equipes).
+Abordagem de Trabalho
 
-Atraves da metodolia scrum a equipe ira dividir as entregas que seram feitas ao final de cada sprint, onde cada desenvolvedor tera como sua responsabilidade o desenvolvimento dos componentes da aplicação; inicialmente ficou definido encontros diarios presencialmente ou não, para alinhamento das demandas e analise da qualidade do que esta sendo desenvolvido. para facilitar a organização a equipe ira seguir uma lista de requisitos do site se baseando na prioridade do que vai ser desenvolvido; 
+Para a condução deste projeto, foi adotada a metodologia ágil Scrum, que permite o desenvolvimento iterativo e incremental do produto. A equipe dividiu o projeto em sprints, com entregas parciais ao final de cada ciclo, garantindo feedback contínuo, organização do trabalho e agilidade na implementação das funcionalidades.
+
+A cada sprint, foram definidas tarefas claras no backlog do produto, priorizadas de acordo com a importância para a entrega da solução. Os papéis da equipe foram distribuídos conforme as habilidades dos integrantes, sendo que cada membro ficou responsável por desenvolver partes específicas da aplicação. Reuniões de alinhamento foram realizadas regularmente, presencialmente ou de forma remota, para discutir o progresso, revisar as demandas e manter a qualidade do que estava sendo desenvolvido.
+
+A equipe se organizou utilizando um checklist de requisitos e funcionalidades, com base nas prioridades estabelecidas, garantindo que as etapas de desenvolvimento fossem cumpridas com eficiência.
 
 | BackLOG                            | A FAZER                             |
 |-------------------------------------|------------------------------------|
 | Criar Layout home-page              | criar home page atraves do html/css.|
-| criação da pagina de treinos        |criação atraves do hmtl/css         |
-| criar ranking de usuario            | parte visual/estetica do ranking de usuario para posterior aplicação de Jc|
+| criação da pagina de treinos        |  criação atraves do hmtl/css      |
 | criar categorias de treinos no site |criar categorias acessaveis pela homepage|
+
+
+
 
 (sujeito a mudanças)
 (posteriormente implementar um sistema de login pro Usuario)
@@ -85,4 +91,10 @@ Coloque uma imagem da estrutura da ferramenta de controle de tarefas (Kanban) e 
 | Projeto de interface inicial        | Excalidraw                         | https://excalidraw.com/              |
 | Projeto de interface                | Figma                              | [https://www.figma.com/](https://www.figma.com/design/Nf5UnelDxmh3Df91BCJ8qR/Obesidade?node-id=0-1&m=dev&t=GPy2DZuF8tcAIB0N-1)        |
 | Hospedagem                          | GitHub Pages                | https://pages.github.com/        |
+| Edição do codigo                    | Visual Studio Code                | ---        |
+| Comunicação da Equipe               | WhatsApp / Reuniões presenciais                | ---        |
+
+
+
+***Observação: O projeto tem como foco o desenvolvimento web, portanto não contempla aplicações móveis nesta versão. No entanto, a aplicação é desenvolvida com design responsivo, garantindo compatibilidade com dispositivos móveis por meio do uso de HTML5, CSS3, JavaScript e Bootstrap.***
  
