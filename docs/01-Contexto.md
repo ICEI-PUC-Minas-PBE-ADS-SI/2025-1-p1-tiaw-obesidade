@@ -27,8 +27,6 @@ As principais causas da obesidade incluem alimentação inadequada, sedentarismo
 
 O objetivo geral do projeto é desenvolver um software para auxiliar no combate à obesidade, proporcionando aos usuários ferramentas que incentivem a adoção de hábitos mais saudáveis, como alimentação equilibrada e a prática de atividades físicas.
  
-<!-- **Links úteis**:
-> - Objetivo geral e objetivo específico: como fazer e quais verbos utilizar(https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)-->
 
 ## Justificativa
 
