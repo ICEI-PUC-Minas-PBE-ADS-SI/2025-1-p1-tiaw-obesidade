@@ -83,6 +83,6 @@ Coloque uma imagem da estrutura da ferramenta de controle de tarefas (Kanban) e 
 | Documentos do projeto               | GitHub                             | https://github.com/orgs/ICEI-PUC-Minas-PBE-ADS-SI/teams/obesidade       |
 | Gerenciamento do projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PBE-ADS-SI/teams/obesidade        |
 | Projeto de interface inicial        | Excalidraw                         | https://excalidraw.com/              |
-| Projeto de interface                | Figma                              | https://www.figma.com/        |
+| Projeto de interface                | Figma                              | [https://www.figma.com/](https://www.figma.com/design/Nf5UnelDxmh3Df91BCJ8qR/Obesidade?node-id=0-1&m=dev&t=GPy2DZuF8tcAIB0N-1)        |
 | Hospedagem                          | GitHub Pages                | https://pages.github.com/        |
  
