@@ -1,4 +1,4 @@
-# Nome do Projeto: Obesidade (On Focus)
+# Nome do Projeto: On Focus
 
 `CURSO: Sistemas de Informação`
 

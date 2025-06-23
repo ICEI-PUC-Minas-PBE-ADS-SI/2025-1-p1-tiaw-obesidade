@@ -29,10 +29,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 ![Grupo (5)](https://github.com/user-attachments/assets/b0f7b0c7-016f-49c7-9229-813739748785)
 
 
-
-
-
-
 > **Links úteis**:
 > - [O que é o canvas da proposta de valor e como usar?](https://www.youtube.com/watch?v=Iqb-8Q_eiiA)
 
@@ -64,7 +60,6 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 | RNF-002 | Ser possível acessar em qualquer tipo de aparelho, celulares ou computadores.          | ALTA      |
 | RNF-003 | Registro dos dados do usuário para possíveis login's em outros dispositivos.         | BAIXA      |
 | RNF-004 | Ter vídeos com a qualidade, maior ou igual, a 720p.          | MÉDIA      |
-
 
 
 OBS:PARA DEFINIÇÃO DE PRIORIDADES PENSAMOS COM BASE NOS DADOS QUE OBTIDOS NAS ENTREVISTAS E CONCLUSÕES FEITAS NA DEFINIÇÃO DAS PERSONAS; COM BASE NISSO FILTRAMOS E PRIORIZAMOS OS REQUISITOS. DEFINIMOS O MUSTHAVE DO SITE, SHOULD HAVE, COULD HAVE PELA TECNICA MoSCoW. PENSAMOS TAMBEM NA DIFICULDADE DE EXECUÇÃO DE CADA FUNCIONALIDADE E TEMPO DISPONIVEL PARA DESENVOLVE-LA.
