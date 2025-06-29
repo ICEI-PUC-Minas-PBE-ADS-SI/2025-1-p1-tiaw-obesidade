@@ -36,9 +36,7 @@ São protótipos usados no design de interface para sugerir a estrutura de um si
 >Versão mobile
 ![image](https://github.com/user-attachments/assets/d6a6550b-b47b-4558-a08f-12953dd96d15)
 
-##### TELA XPTO ⚠️ EXEMPLO ⚠️
 
-Descrição para a tela XPTO
 >Versão 1: Começamos com um Wireframe bem simples de home page, para ir incrementando funcionalidades e mudando o estilo.
 >Versão 2: Adicionamos mais funcionalidades, mas desistimos dessa versão e voltamos para versão inicial para reestruturar tudo.
 >Versão final: Adicionamos todas as funcionalidades que desejavamos, além disso fizemos o estilo que queremos seguir criando as outras abas do site.
