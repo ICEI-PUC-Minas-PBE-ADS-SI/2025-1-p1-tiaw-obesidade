@@ -44,12 +44,12 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 | RF-002 | Sessão de receitas.| ALTA     |
 | RF-003 | Sessão de treinos  | ALTA     |
 | RF-004 | Permitir que a pessoa registre sua evolução com os treinos.| MÉDIA     |
-| RF-005 | Conter aba de sugestões para que o usuário fale pontos para o aplicativo melhorar. | MÉDIA     |
-| RF-006 | Registrar os treinos que tenham sido completados para o usuário ter controle da sua rotina.| MÉDIA     |
-| RF-007 | Permitir o usuário navegar pelos treinos divididos por categorias, pernas, etc.  | ALTA     |
-| RF-008 | Fornecer contato com profissionais da área da saúde. | BAIXA     |
-| RF-009 | Ter recompensas por ter concluído seu treino. | MÉDIA     |
-| RF-010 | Competição em relação a comunidade que usa o aplicativo. | ALTA     |
+| RF-005 | Permitir o usuário navegar pelos treinos divididos por categorias, pernas, etc.  | ALTA     |
+| RF-006 | contagem de dias treinados no aplicativo  | ALTA     |
+| RF-007 | sessão de blog de noticias sobre saude| ALTA     |
+| RF-008 | registro dos objetivos do usuario, personalizavel | ALTA     |
+| RF-009 | registro de tempo utilizado no site | MEDIA     |
+| RF-010 | registro de informações como KG, altura, etc | MEDIA     |
 
 
 ### Requisitos não funcionais
@@ -59,7 +59,7 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 | RNF-001 | Estar disponível a qualquer horário do dia, todos os dias da semana                      | MÉDIA     |
 | RNF-002 | Ser possível acessar em qualquer tipo de aparelho, celulares ou computadores.          | ALTA      |
 | RNF-003 | Registro dos dados do usuário para possíveis login's em outros dispositivos.         | BAIXA      |
-| RNF-004 | Ter vídeos com a qualidade, maior ou igual, a 720p.          | MÉDIA      |
+| RNF-004 | exibir dados de acordo com perfil logado                     | MÉDIA     |
 
 
 OBS:PARA DEFINIÇÃO DE PRIORIDADES PENSAMOS COM BASE NOS DADOS QUE OBTIDOS NAS ENTREVISTAS E CONCLUSÕES FEITAS NA DEFINIÇÃO DAS PERSONAS; COM BASE NISSO FILTRAMOS E PRIORIZAMOS OS REQUISITOS. DEFINIMOS O MUSTHAVE DO SITE, SHOULD HAVE, COULD HAVE PELA TECNICA MoSCoW. PENSAMOS TAMBEM NA DIFICULDADE DE EXECUÇÃO DE CADA FUNCIONALIDADE E TEMPO DISPONIVEL PARA DESENVOLVE-LA.
@@ -74,4 +74,4 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |001|- Deve ser desenvolvido até o fim do período letivo.|
-|002| - Deve seguir normas de segurança de dados do usuário.|
+|002| - ser desenvolvido de forma intuitiva e acessivel |
