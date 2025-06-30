@@ -1,0 +1,24 @@
+{
+  "name": "on-focus-projeto",
+  "version": "1.0.0",
+  "description": "Projeto ON Focus - Plataforma de Fitness e Bem-estar",
+  "main": "db.json",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "npm-run-all --parallel start serve",
+    "serve": "live-server --open=\"ON Focus/ON Focus Login/landing.html\" --port=8080 --ignore=db.json"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "json-server": "^0.17.4",
+    "live-server": "^1.2.2",
+    "npm-run-all": "^4.1.5"
+  },
+  "keywords": [
+    "fitness",
+    "health",
+    "json-server"
+  ],
+  "author": "ON Focus Team",
+  "license": "MIT"
+}
