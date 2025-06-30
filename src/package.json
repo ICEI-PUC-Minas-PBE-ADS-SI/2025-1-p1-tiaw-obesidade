@@ -1,16 +1,24 @@
 {
-  "name": "lab-jsonserver",
+  "name": "on-focus-projeto",
   "version": "1.0.0",
-  "description": "Laboratório de aplicação Web com backend baseado no JSON Server",
-  "main": "index.js",
+  "description": "Projeto ON Focus - Plataforma de Fitness e Bem-estar",
+  "main": "db.json",
   "scripts": {
-   "start": "node index.js"
+    "start": "node server.js",
+    "dev": "npm-run-all --parallel start serve",
+    "serve": "live-server --open=\"ON Focus/ON Focus Login/landing.html\" --port=8080 --ignore=db.json"
   },
-  "keywords": [],
-  "author": "Rommel Vieira Carneiro",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "json-server": "^0.17.3"
-  }
+    "express": "^4.21.2",
+    "json-server": "^0.17.4",
+    "live-server": "^1.2.2",
+    "npm-run-all": "^4.1.5"
+  },
+  "keywords": [
+    "fitness",
+    "health",
+    "json-server"
+  ],
+  "author": "ON Focus Team",
+  "license": "MIT"
 }
