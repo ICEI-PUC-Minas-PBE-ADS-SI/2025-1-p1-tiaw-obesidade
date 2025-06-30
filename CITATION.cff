@@ -19,10 +19,10 @@ authors:
     family-names: da Silva
     given-names: Jardell Fillipe    
 keywords:
-    - coloque aqui a palavra-chave 1
-    - coloque aqui a palavra-chave 2
-    - coloque aqui a palavra-chave 3
-repository-code: coloque o link do seu repositório
+    - Treinos
+    - Dieta
+    - Saúde
+repository-code: https://tiaw-obesidade.onrender.com
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2024-09-01
